@@ -20,6 +20,7 @@ const add = (request, response) => {
       response.status(201).send(`O signo é ${saberSigno(contato)}`)
     }
   }
+  //amigo estou aqui
 
 }
 
