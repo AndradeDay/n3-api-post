@@ -1,3 +1,4 @@
+
 const model = require("../model/contatos")
 
 const getAll = (request, response) => {
